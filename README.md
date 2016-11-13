@@ -33,6 +33,8 @@ If you use my app to connect HM10 module(Slave mode), and use HM10 sent "GET" to
 The cell phone will feedback the RSSI and DIST to HM10. The photo as below
  
 ![001](https://cloud.githubusercontent.com/assets/20264622/20243272/0459fcd2-a98c-11e6-948b-7d5665f71ef2.png)
+![001](https://cloud.githubusercontent.com/assets/20264622/20243184/8d724b6e-a987-11e6-92c9-d0141fe753d1.png)
+
 
 
 
