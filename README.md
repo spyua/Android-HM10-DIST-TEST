@@ -27,7 +27,7 @@ Distance<br/><br/>
 ##The arduino circuit:
  * RX is digital pin 12 (connect to TX of other device)
  * TX is digital pin 13 (connect to RX of other device)
- Console Display Set:No End Line
+ <br/>Console Display Set:No End Line
 
 If you use my app to connect HM10 module(Slave mode), and use HM10 sent "GET" to cell phone.
 The cell phone will feedback the RSSI and DIST to HM10. The photo as below
